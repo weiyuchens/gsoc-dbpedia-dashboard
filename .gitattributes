@@ -3,3 +3,5 @@
 *.css linguist-language=python
 *.json linguist-language=python
 *.jsx linguist-language=python
+*.svg linguist-language=python
+*.png linguist-language=python
