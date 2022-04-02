@@ -1,4 +1,4 @@
-# User-Centric Knowledge Engineering and Data Visualization
+<h1 align="center">User-Centric Knowledge Engineering and Data Visualization</h1>
 
 ![](https://img.shields.io/badge/Backend_Language-Python_3-blue.svg)
 ![](https://img.shields.io/badge/SQL_Database-MySQL-orange.svg)
@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Frontend_Language-React.js-61dafb.svg)
 ![](https://img.shields.io/badge/Frontend_Component-Ant_Design-0170fe.svg)
 ![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
+
 
 ## 1. Problem
 Last year, the dashboard project was about finding the general insights of the public endpoint's datacore. This year, it is the extension for querying the endpoints and creating multiple dashboards. The limitation of last year's project was that, there were no customized SPARQL queries that could return the different datasets and visualize them at the same time. All the queries were statically executed without any modifications. Additionally, users had no flexibility to create their own multiple dashboards for analysis.
